@@ -8,13 +8,26 @@
 
 Задание 1  
 <img width="623" height="299" alt="image" src="https://github.com/user-attachments/assets/19758fdb-46ff-43ed-b31d-9dbc1c2516e6" />  
-<img width="623" height="299" alt="image" src="https://github.com/user-attachments/assets/dcdb699b-9f5e-482f-9c7f-deebaacb5980" />  
-
-
- 
-
- 
-
+<img width="623" height="297" alt="image" src="https://github.com/user-attachments/assets/31b18162-1993-42c4-b351-995ec609417a" />  
 1. Это атака на базу данных, которая позволит выполнить некоторое действие, которое не планировалось создателем скрипта.  
 2. ' or 1=1;--  обходит проверку пароля, подставляя 1=1, эта строка всегда равна истине.   
-3. 1. Валидация   
+3. Валидация     
+   Использовать специализированные сканеры безопасности  
+   Использовать параметризованные запросы
+   Использовать принцип наименьших привилегий
+
+Задание 2  
+1. admin@juice-sh.op
+2. 0192023a7bbd73250516f069df18b500
+3. admin123
+4. Это небольшие текстовые файлы, которые веб-сайт сохраняет на устройстве (компьютере, смартфоне, планшете) при его посещении.
+5. Принцип минимальных привилегий
+   Ограничение длины ввода
+   Использовать принцип наименьших привилегий
+   <img width="624" height="297" alt="image" src="https://github.com/user-attachments/assets/99ff32c3-c47d-40d9-a8c4-aa1cc69021da" />
+
+   <img width="624" height="299" alt="image" src="https://github.com/user-attachments/assets/32115fbf-f1c0-4360-9ac8-3f51c2e6373f" />
+
+   <img width="623" height="312" alt="image" src="https://github.com/user-attachments/assets/11b91375-9e32-4ba1-8256-923b8c972620" />  
+   
+Задание 3     
